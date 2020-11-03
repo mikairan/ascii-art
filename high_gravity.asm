@@ -24,6 +24,6 @@ CLC		; | Y-position by 2
 ADC #$0002	; | subpixels every
 STA $96		; | frame, moving him
 SEP #$20	; | downward constantly
-RTL			;/
+RTL		;/
 return:
 RTL	
