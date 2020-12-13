@@ -1,47 +1,55 @@
 HYPER 6 FAQ
 
-Q: What is this pile of shit?
-A: Hyper 6 is the sixth installment in the Hyper Mari World series by Haimari. It was released in 2010, and is notable for its difficulty. It is very unfair, has long sections without midways, and is riddled with blind jumps as well as offscreen enemies/sprites. There is a large difficulty spike in World 6, and an even bigger one in World 8.
+Q1: What is this pile of shit?
+A1: Hyper 6 is the sixth installment in the Hyper Mari World series by Haimari. It was released in 2010, and is notable for its difficulty. It is very unfair, has long sections without midways, and is riddled with blind jumps as well as offscreen enemies/sprites. There is a large difficulty spike in World 6, and an even bigger one in World 8.
+December 13th, 2020 UPDATE: The difficulty spike of World 6 was a lie, spun by those who cheat the game. In fact, World 6 was the most fun I have had with the game so far. It was certainly the hardest world up to that point, but it was by no means a 'spike.' If you play the game as-intended, without flying over every level you can or cheesing sections, then Suicide City is a perfect difficulty curve compared to the 5 worlds before it.
 
-Q: Did you lose a bet? Are you retarded? Do you hate yourself? Why are you playing this?
-A: No. Yes. Yes. I am playing this for fun. I am under no obligations whatsoever. I hope to complete any% within a reasonable span of time.
+Q2: Did you lose a bet? Are you retarded? Do you hate yourself? Why are you playing this?
+A2: No. Yes. Yes. I am playing this for fun. I am under no obligations whatsoever. I hope to complete any% within a reasonable span of time.
+December 13th, 2020 UPDATE: I have officially lost 2 bets. The first one was with aknightofwands: I bet that if he could complete the first level of Casio Mario World, that I would not only beat Hyper 6, but stream the entirety of it. I already planned on this, so it wasn't really much of a bet.
+However, my arrogance has struck me down. I bet that if any human being could beat the Fruit Dealer boss from Cool or Cruel: Stage 12 (Tubular), completely RTA (meaning, no tools such as slowdown, savestates or rewind), that I would not only beat the special world of Hyper 6, but also speedrun it.
+This was phrased as, "speedrun Hyper 6 100%." However, let me rephrase what was intended by this statement. I did not mean literal 100%, as in all exits of the entire game. There are dozens of pointless exits in Hyper 6, that would just be a waste of time. The speedrun that I envision in my mind is to beat Hyper 6's any% route, by completing the Abyssal Bowser stage at the end of World 8, then travelling to the Special World and clearing the ultimate stage, 'At The End of Eternity, There is Darkness' or, as it is known by some, 'That Which Can Eternal Die.' You may call me a coward, a liar, a deceiver. I do not care, for the few dozen pointless exits are not worth my time, especially when hundreds of hours of my life are already going to be devoted to this feat. 
 
-Q: Do you know what you're getting yourself into? Are you aware of the scope of how horrible this romhack is?
-A: Does anyone, really?
+Q3: Do you know what you're getting yourself into? Are you aware of the scope of how horrible this romhack is?
+A3: Does anyone, really?
+December 13th, 2020 UPDATE: Hyper 6 is not horrible. In fact, it is the single greatest romhack ever created. 
 
-Q: Why don't you have your microphone on? Do you really think people want to watch some dip shit suck at Mario without any commentary whatsoever?
-A: There are a multitude of reasons. If you've seen how badly I play Super Mario World while trying to talk to chat, you would know that it is just not possible to beat a game such as this one with the lack of skill presented. As well as the aforementioned point, I also simply do not have enough content. I believe it would be a much more enjoyable experience to merely listen to a playlist of well-selected music, rather than hearing me say 'Ahh, fuck..' every time I trip over my shoelaces and stumble into a bottomless pit.
+Q4: Why don't you have your microphone on? Do you really think people want to watch some dip shit suck at Mario without any commentary whatsoever?
+A4: There are a multitude of reasons. If you've seen how badly I play Super Mario World while trying to talk to chat, you would know that it is just not possible to beat a game such as this one with the lack of skill presented. As well as the aforementioned point, I also simply do not have enough content. I believe it would be a much more enjoyable experience to merely listen to a playlist of well-selected music, rather than hearing me say 'Ahh, fuck..' every time I trip over my shoelaces and stumble into a bottomless pit.
 
-Q: Why do you keep running into the same enemy over and over? Are you a fucking moron?
-A: I have very poor short-term memory, and sometimes I distrust my muscle memory. It leads to me knowing that I should press a button at a certain point, but looking at the surroundings and thinking "I don't HAVE to do that, I could just do this easier thing instead." which immediately leads to death, and sudden realization of why said muscle memory exists.
+Q5: Why do you keep running into the same enemy over and over? Are you a fucking moron?
+A5: I have very poor short-term memory, and sometimes I distrust my muscle memory. It leads to me knowing that I should press a button at a certain point, but looking at the surroundings and thinking "I don't HAVE to do that, I could just do this easier thing instead." which immediately leads to death, and sudden realization of why said muscle memory exists.
 
-Q: Why did you just jump into a pit? You realize those kill you, right?
-A: I can almost guarantee I meant to land on solid ground, but ultimately failed. For that, I apologize.
+Q6: Why did you just jump into a pit? You realize those kill you, right?
+A6: I can almost guarantee I meant to land on solid ground, but ultimately failed. For that, I apologize.
 
-Q: How long are you going to play this?
-A: I intend on completing Abyssal Bowser, the final level of World 8.
+Q7: How long are you going to play this?
+A7: I intend on completing Abyssal Bowser, the final level of World 8.
+December 13th, 2020 UPDATE: Please refer to Q2, if you haven't already.
 
-Q: Do you plan on attempting to beat special world?
-A: I am quite a fan of Haimari balls. We'll see.
+Q8: Do you plan on attempting to beat special world?
+A8: I am quite a fan of Haimari balls. We'll see.
+December 13th, 2020 UPDATE: Please refer to Q2, if you haven't already.
 
-Q: What are your thoughts on the game so far?
-A: As of 5/17/2020, nearing completion of World 3: It is quite fun, I am enjoying it thoroughly. I am aware I will come to regret this decision. But as for now.. I like it. :)
+Q9: What are your thoughts on the game so far?
+A9: As of 5/17/2020, nearing completion of World 3: It is quite fun, I am enjoying it thoroughly. I am aware I will come to regret this decision. But as for now.. I like it. :)
 EDIT: As of 7/24/2020, I have returned to Hyper 6. I beat World 4 castle yesterday without any cheese, it was a very fun level. I have been attempting to clear all exits, but the boss bass level in World 4 was something I decided to skip for now. I am now at the World 5 ghost house, it seems pretty difficult. We will see what happens.
+December 13th, 2020 UPDATE: World 5's purple urchin level was fun. World 5 Fortress was really hard, but it was fun. World 5 Castle was a joke compared to the Fortress. World 6 was really fun, I enjoyed the Factory levels a lot. God damn, it was really long. Had tons of levels. World 7 was really short, because I took the coward's route. World 7 Castle was literally Hell, the only level I have not enjoyed so far. Specifically because of a singular section, mind you. The part where hopping bowser statues chase you around inside of an invisible bounce-from-all-sides noteblock maze. I am now in World 8, and I have opted to take the right-side path first, as I wish to save the Left-side Barrier Tower for last. I am looking forward to it greatly. I am currently on Right-side Bowser Valley, the first half of the level was really hard when you can't just fly over all of it with cape. But it was nothing compared to the second half, the teal underground section where a Fishin Boo chases you and you cannot spin jump. I have been on said level for well-over 10 hours now. 
 
-Q: You know you can just fly over this level, right? You can clip through the floor there and skip half the level. You know this exit just leads backwards, right?
-A: Yes, I am aware. But this game is fun, and I want to play as much of it as I can. Skipping all of the fun sections is not how you enjoy Hyper 6. 
+QA: You know you can just fly over this level, right? You can clip through the floor there and skip half the level. You know this exit just leads backwards, right?
+AA: Yes, I am aware. But this game is fun, and I want to play as much of it as I can. Skipping all of the fun sections is not how you enjoy Hyper 6. 
 
-Q: What is the song currently playing?
-A: I suggest you either look up the lyrics, or browse through the playlist. You could try asking me in chat, but if you happen to inquire during something such as 'Can You Feel The Sunshine,' where half of the lyrics are literally the song's title, you will be getting nothing from me but disappointment.
+QB: What is the song currently playing?
+AB: I suggest you either look up the lyrics, or browse through the playlist. You could try asking me in chat, but if you happen to inquire during something such as 'Can You Feel The Sunshine,' where half of the lyrics are literally the song's title, you will be getting nothing from me but disappointment.
 
-Q: Why are you manually posting the link to this page in chat? Do you not know what a bot is, or are you just too stupid to use one?
-A: I don't feel like relying on someone else's creation to distribute my information. 
+QC: Why are you manually posting the link to this page in chat? Do you not know what a bot is, or are you just too stupid to use one?
+AC: I don't feel like relying on someone else's creation to distribute my information. 
 
-Q: This music is giving me testicular cancer. Can I request a song?
-A: You may do literally anything, including posting whatever garbage you want me to listen to. I'll play it on stream if it doesn't suck massive horsecock.
+QD: This music is giving me testicular cancer. Can I request a song?
+AD: You may do literally anything, including posting whatever garbage you want me to listen to. I'll play it on stream if it doesn't suck massive horsecock.
 
-Q: You realize FAQ stands for 'Frequently Asked Questions,' right? Who is asking all of these questions?
-A: It's a colloquialism, you sack of shit.
+QE: You realize FAQ stands for 'Frequently Asked Questions,' right? Who is asking all of these questions?
+AE: It's a colloquialism, you sack of shit.
 
-Q: May I slob on your dingus?
-A: ABSO-FUCKING-LUTELY.
+QF: May I slob on your dingus?
+AF: ABSO-FUCKING-LUTELY.
