@@ -14,16 +14,12 @@
 ;========================
 
 Main:
-LDA $13D4	;\  checks if the code
-BNE return	; | should actually be
-LDA $71		; | running at this time
-BNE return	;/ 
-REP #$20	;\ 
-LDA $96		; | increases mario's
-CLC		; | Y-position by 2
-ADC #$0002	; | subpixels every
-STA $96		; | frame, moving him
-SEP #$20	; | downward constantly
-RTL		;/
-return:
+LDA $13D4|!addr
+ORA $71
+BNE +
+REP #$20
+LDA $96
+INC #2
+STA $96
+SEP #$20
 RTL	
